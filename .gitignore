@@ -1,0 +1,4 @@
+# exclude everything except directory foo/bar
+/.vs
+/bin
+/obj
